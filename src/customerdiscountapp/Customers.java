@@ -88,5 +88,3 @@ public class Customers {
         return purchaseAmount - (purchaseAmount * discount);
     }
 }
-
-//test
